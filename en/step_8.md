@@ -1,19 +1,31 @@
-## What next?
+## Share
 
-If you are following the [PathName](https://projects.raspberrypi.org/en/raspberrypi/path-name) path, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you are in a club, why not share your project with friends? You could also show your family how your project works.
 
---- print-only ---
+--- task ---
 
-![ProjectName project](images/projectname-project.png)
+**Show:** Show your landing page to someone and ask them if it's persuasive. Does it make them want to try your product or idea?
 
---- /print-only ---
+--- /task ---
 
---- no-print ---
+--- task ---
 
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/486719199/?autostart=false" frameborder="0"></iframe>
-</div>
+**Share:** You can get a sharable web link (url) for your project:
 
---- /no-print ---
+[[[share-project]]]
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- /task ---
+
+--- task ---
+
+Why not invite your friends to create a project? Let them know how you had fun.
+
+--- /task ---
+
+--- task ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['Mood board - Community'](https://wke.lt/w/s/1bHup_){:target="_blank"} gallery, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
