@@ -11,7 +11,7 @@ A landing page needs to look really appealing. In this step you can add addition
 
 --- task ---
 
-You could add a background image to your page. This works well with transparency on your main content. 
+You could add a **background image** to your page. This works well with transparency on your main content. 
 
 ![A strip of example projects with a background image and transparancy adjustment to the main content.](images/background-image.png)
 
@@ -25,7 +25,7 @@ You could add a background image to your page. This works well with transparency
 
 --- task ---
 
-You could add a gradient to a `<main>`, `<section>`, `<div>` or `<img>` element:
+You could add a **gradient** to a `<main>`, `<section>`, `<div>` or `<img>` element:
 
 ![A strip of gradients using different colour palettes.](images/gradients.png)
 

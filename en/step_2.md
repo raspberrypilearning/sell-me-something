@@ -63,13 +63,19 @@ Remember this purpose as you are designing your page. Try to make your page as a
 
 --- task ---
 
-**Choose:** a colour palette that works well for your product page: 
+**Choose:** a colour palette that works well for your product page.0faeb0
+
+You could use one of the 20 included colour palettes or create your own: 
+
+![A strip of six colour palettes that are some of the 20 included in the starter project.](images/palette-examples.png)
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
 
 You could get a colour palette inspiration from an image:
+
+![Two examples of images and their matching colour palettes.](images/image-palette.png)
 
 [[[trinket-image-library]]] 
 
@@ -83,6 +89,8 @@ You could get a colour palette inspiration from an image:
 
 You can use the font that is included with the colour palette you selected or pick a different one. 
 
+![An iage showing all of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+
 [[[included-fonts]]]
 
 [[[web-fonts]]]
@@ -93,7 +101,7 @@ You can use the font that is included with the colour palette you selected or pi
 
 --- task ---
 
-Add a `<h1>` heading to the header with the name of your product or idea. Choose a colour scheme class for the `<header>`.
+Add a `<h1>` heading to the header with the name of your product or idea. Choose a colour scheme class for the `<header>` by adding a colour scheme class:
 
 [[[web-primary-secondary]]]
 
