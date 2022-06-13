@@ -5,37 +5,26 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
+CSS animation allows elements on a web page to change dynamically. 
 
-```blocks3
-say [Hello!] for [2] secs
-```
+You can use a CSS animation to create the effect of flipping a card or to make an emoji bounce up and down.
 
-Where would you go to find this block?
 
 --- choices ---
 
-- (x) 
-
+- (x) True
+, 
   --- feedback ---
+
+  That's correct. You can use CSS animations to gradually change the properties of an HTML element, this includes animating emojis and flipping cards. 
 
   --- /feedback ---
 
-- ( ) 
+- ( ) False
 
   --- feedback ---
 
-  --- /feedback ---
-
-- ( ) 
-
-  --- feedback ---
-
-  --- /feedback ---
-
-- ( ) 
-
-  --- feedback ---
+  Not quite. There are lots of things you can use CSS animations for. 
 
   --- /feedback ---
 
