@@ -10,18 +10,49 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 --- task ---
 
-Another step of tasks to complete.
+You could add a background image to your page. This works well with transparency on your main content. 
+
+web-background-image
+
+[[[add-transparency]]]
+
+--- /task ---
+
+--- task ---
+You could add a gradient to a `<main>`, `<section>`, `<div>` or `<img>` element:
+
+[[[add-a-gradient]]]
+
+**Tip:** Try changing the direction of the gradient and see what you prefer. 
 
 --- /task ---
 
 --- task ---
 
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
+You could style elements with borders or rounded corners:
+
+[[[web-borders]]]
+
+[[[rounded-corners]]]
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You can also change the size of elements using headings, or the style of text. 
+
+[[[web-strong-em]]]
+
+[[[web-large-text-tiles]]]
+
+**Tip:** Emoji are text and you can change their size in the same way as text by using heading tags or `bigfont` and `hugefont` classes. 
+
+[[[huge-emoji]]]
+
+--- /task ---
+
+--- task ---
+
+**Test:** Look at your web site. Is there anything else you could do to make people pay attention to your product or idea?
+
+--- /task ---

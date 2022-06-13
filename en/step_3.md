@@ -8,6 +8,9 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Web page <span style="color: #0faeb0">**design**</span> includes making a page visually appealing, it also includes choosing the right content and designing for accessibility and user experience. Web page design also includes choosing the appropriate HTML element and choosing and creating CSS styles. 
+</p>
 
 --- task ---
 
@@ -35,5 +38,6 @@ Remember you can use a `<div>` containing an emoji instead of an `<img>`.
 
 --- task ---
 
---- /task ---
+**Test:** Look at your web site. Would a visitor to your web page have all the information they need to understand your product or idea? Is your content persuasive?
 
+--- /task ---
