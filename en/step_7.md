@@ -8,7 +8,7 @@ If you have time, you could improve your landing page to make your idea more app
 
 You could improve:
 
-**visual design**:
+**Visual design**:
 + the layout
 + colours
 + fonts

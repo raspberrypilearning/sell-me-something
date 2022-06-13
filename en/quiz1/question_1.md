@@ -22,8 +22,7 @@ The **design** of a web page includes:
 
   --- feedback ---
 
-  Not quite. Designing a web page does include making decisions about colours, fonts and images, but there's more. 
-. 
+  Not quite. Designing a web page does include making decisions about colours, fonts and images, but there's more.
 
   --- /feedback ---
 
@@ -31,9 +30,8 @@ The **design** of a web page includes:
 
   --- feedback ---
 
-  Not quite. Choosing which HTML and CSS elements to use and when to create new CSS classes is part of web design, but there's more. 
-. 
-
+  Not quite. Choosing which HTML and CSS elements to use and when to create new CSS classes is part of web design, but there's more.
+  
   --- /feedback ---
 
 - ( ) Considering accessibility and user experience.
