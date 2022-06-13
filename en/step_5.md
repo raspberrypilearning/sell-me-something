@@ -12,7 +12,7 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 You could add a background image to your page. This works well with transparency on your main content. 
 
-web-background-image
+[[[web-background-image]]]
 
 [[[add-transparency]]]
 
