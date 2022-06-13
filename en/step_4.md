@@ -5,7 +5,7 @@
 Now it’s time to add some features that will make your product page stand out with interaction or animation.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![](images/image.png){:width="300px"}
 </div>
 </div>
 
@@ -28,24 +28,21 @@ Add animation to some of your content. You could add animation to:
 + A link
 + Or something else
 
-Remember: Animations will grab attention so add them to the content you want viewers to be drawn to: 
+![An animated image showing emoji dog heads each with 1 of the 7 animations included in the starter project.](images/animations.gif)
 
-[using starter animations]
+Remember: Animations will grab attention so add them to the content you want visitors to be drawn to: 
+
+[[[web-starter-animations]]]
 
 You could amend the starter animations to have a bigger impact by changing their timing, repeats or actions:
 
-[customising animations]
+[web-customise-animations]
 
 --- /task ---
 
 --- task ---
 
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
+**Test:** Look at your web page. Would it grab a visitor's attention?
 
 --- /task ---
 
---- save ---

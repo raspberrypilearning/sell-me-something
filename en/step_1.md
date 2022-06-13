@@ -8,8 +8,12 @@ A <span style="color: #0faeb0">**landing page**</span> is a single web page desi
 
 You will:
 + Show rather than tell, use short sentences and a simple layout
-+ Engage your audience with interaction or animation
++ Engage your visitors with interaction or animation
 + Style your page to make it stand out
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A person who views a web page or web site is often called a <span style="color: #0faeb0">**visitor**</span>. 
+</p>
 
 ![A strip of 5 example landing pages.](images/example-strip.png)
 

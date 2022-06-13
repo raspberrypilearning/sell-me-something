@@ -2,7 +2,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A landing page needs to look really appealing. In this step you can add additional styling to make your product or idea look really appealing. </div>
+A landing page needs to look really appealing. In this step you can add additional styling to make your product or idea look really great. 
+</div>
 <div>
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
 </div>
@@ -24,6 +25,16 @@ You could add a gradient to a `<main>`, `<section>`, `<div>` or `<img>` element:
 [[[add-a-gradient]]]
 
 **Tip:** Try changing the direction of the gradient and see what you prefer. 
+
+--- /task ---
+
+**Tip:** Any changes that you make to classes in `style.css` will apply everywhere that the class is used. You may find that you want to introduce a new CSS class. You might want a third gradient style, different colour combinations or different borders.
+
+--- task ---
+
+You can create a new class if you want more variety on your page.
+
+[[[web-add-class]]]
 
 --- /task ---
 
