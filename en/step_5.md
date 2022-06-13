@@ -5,7 +5,7 @@
 A landing page needs to look really appealing. In this step you can add additional styling to make your product or idea look really great. 
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![A product page for a mood lamp with a background image, transparency and gradient effects.](images/sell-style.png){:width="300px"}
+![A product page for a mood lamp with a background image, transparency and gradient effects.](images/sell-style.png){:width="300px"}
 </div>
 </div>
 
@@ -15,6 +15,7 @@ You could add a background image to your page. This works well with transparency
 
 ![A strip of example projects with a background image and transparancy adjustment to the main content.](images/background-image.png)
 
+[[[trinket-image-library]]] 
 
 [[[web-background-image]]]
 

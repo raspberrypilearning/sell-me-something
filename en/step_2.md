@@ -5,7 +5,7 @@
 In this step, you will choose the emoji that represents your product or idea and select a colour palette and font for your landing page. 
 </div>
 <div>
-![A screenshot of the output of this step.](images/step-two.PNG){:width="300px"}
+![.](images/sell-layout.png){:width="300px"}
 </div>
 </div>
 
@@ -24,7 +24,7 @@ Open the [sell me something starter project](https://trinket.io/html/62459839ac)
 + 🍰 A great recipe, book or song
 + 🏞️ An event, activity or place to visit
 
-choose-an-emoji
+[[[choose-an-emoji]]]
 
 --- /task ---
 
@@ -63,11 +63,13 @@ Remember this purpose as you are designing your page. Try to make your page as a
 
 --- task ---
 
-**Choose:** a colour palette that works well for your product page. 
+**Choose:** a colour palette that works well for your product page: 
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
+
+You could get a colour palette inspiration from an image:
 
 [[[trinket-image-library]]] 
 
@@ -81,9 +83,9 @@ Remember this purpose as you are designing your page. Try to make your page as a
 
 You can use the font that is included with the colour palette you selected or pick a different one. 
 
-[[[web-fonts]]]
-
 [[[included-fonts]]]
+
+[[[web-fonts]]]
 
 [[[google-fonts]]]
 

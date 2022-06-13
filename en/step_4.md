@@ -13,7 +13,7 @@ Now it’s time to add some features that will make your product page stand out 
 
 Add one or more flip cards that visitors can interact with to engage with your web page:
 
-<iframe src="https://trinket.io/embed/html/886cbdcb64?outputOnly=true" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><iframe src="https://trinket.io/embed/html/886cbdcb64?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/886cbdcb64?outputOnly=true" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 [[[web-flip-cards]]]
 
@@ -28,7 +28,7 @@ Add animation to some of your content. You could add animation to:
 + A link
 + Or something else
 
-<iframe src="https://trinket.io/embed/html/6900625300?outputOnly=true" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/6900625300?outputOnly=true" width="100%" height="430" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Remember: Animations will grab attention so add them to the content you want visitors to be drawn to: 
 
