@@ -36,7 +36,7 @@ Remember: Animations will grab attention so add them to the content you want vis
 
 You could amend the starter animations to have a bigger impact by changing their timing, repeats or actions:
 
-[web-customise-animations]
+[[[web-customise-animations]]]
 
 --- /task ---
 
