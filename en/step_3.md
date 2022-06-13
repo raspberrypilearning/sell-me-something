@@ -15,9 +15,11 @@ Web page <span style="color: #0faeb0">**design**</span> includes making a page v
 
 --- task ---
 
-Add content to your page to sell your product idea to visitors to your web page. 
+**Choose** layout your web page with `<section>` and content types that will really sell your product idea to visitors of your web page. 
 
 Remember you can use a `<div>` containing an emoji instead of an `<img>`.
+
+![An example strip containing an odered list, unordered list and quote.](images/example-layouts.png)
 
 [[[full-width-section]]]
 
@@ -28,6 +30,8 @@ Remember you can use a `<div>` containing an emoji instead of an `<img>`.
 [[[side-by-side-section]]]
 
 [[[web-large-text-tiles]]]
+
+![An example strip containing an odered list, unordered list and quote.](images/list-quote-example.png)
 
 [[[web-ordered-list]]]
 
