@@ -5,7 +5,7 @@
 In this step you will add content that helps to sell your product or idea. This could include a list of key points, feature boxes, or customer quotes. 
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![A web page about star gazing with feature text in boxes and a Buzz Lightyear quote.](images/sell-content.png){:width="300px"}
 </div>
 </div>
 
