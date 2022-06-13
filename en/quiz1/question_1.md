@@ -1,6 +1,6 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Well done, you have created a landing page and made lots of different design decisions.
 
 Answer the three questions below to reflect on what you've learned.
 
