@@ -5,13 +5,16 @@
 A landing page needs to look really appealing. In this step you can add additional styling to make your product or idea look really great. 
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+Image, gif or video showing what they will achieve by the end of the step. ![A product page for a mood lamp with a background image, transparency and gradient effects.](images/sell-style.png){:width="300px"}
 </div>
 </div>
 
 --- task ---
 
 You could add a background image to your page. This works well with transparency on your main content. 
+
+![A strip of example projects with a background image and transparancy adjustment to the main content.](images/background-image.png)
+
 
 [[[web-background-image]]]
 
@@ -20,7 +23,10 @@ You could add a background image to your page. This works well with transparency
 --- /task ---
 
 --- task ---
+
 You could add a gradient to a `<main>`, `<section>`, `<div>` or `<img>` element:
+
+![A strip of gradients using different colour palettes.](images/gradients.png)
 
 [[[add-a-gradient]]]
 
@@ -42,6 +48,8 @@ You can create a new class if you want more variety on your page.
 
 You could style elements with borders or rounded corners:
 
+![A strip of elements with rounded corners and strong text.](images/style-examples.png)
+
 [[[web-borders]]]
 
 [[[rounded-corners]]]
@@ -51,6 +59,8 @@ You could style elements with borders or rounded corners:
 --- task ---
 
 You can also change the size of elements using headings, or the style of text. 
+
+![A list with bold text in different colours.](images/strong-example.png)
 
 [[[web-strong-em]]]
 
