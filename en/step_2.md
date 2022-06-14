@@ -89,7 +89,7 @@ You could get a colour palette inspiration from an image:
 
 You can use the font that is included with the colour palette you selected or pick a different one. 
 
-![An iage showing all of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![An image showing all of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
 
 [[[included-fonts]]]
 
