@@ -63,7 +63,7 @@ Remember this purpose as you are designing your page. Try to make your page as a
 
 --- task ---
 
-**Choose:** a colour palette that works well for your product page.0faeb0
+**Choose:** a colour palette that works well for your product page.
 
 You could use one of the 20 included colour palettes or create your own: 
 
@@ -89,7 +89,7 @@ You could get a colour palette inspiration from an image:
 
 You can use the font that is included with the colour palette you selected or pick a different one. 
 
-![An iage showing all of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![An image showing all of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
 
 [[[included-fonts]]]
 
