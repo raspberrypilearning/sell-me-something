@@ -5,9 +5,7 @@
 legend: Question 2 of 3
 ---
 
-CSS animation allows elements on a web page to change dynamically.
-
-You can use a CSS animation to create the effect of flipping a card or to make an emoji bounce up and down.
+True or False: CSS animation allows elements on a web page to change. You can use a CSS animation to create the effect of flipping a card or to make an emoji bounce up and down.
 
 --- choices ---
 
