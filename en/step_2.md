@@ -63,7 +63,7 @@ Remember this purpose as you are designing your page. Try to make your page as a
 
 --- task ---
 
-**Choose:** a colour palette that works well for your product page.0faeb0
+**Choose:** a colour palette that works well for your product page.
 
 You could use one of the 20 included colour palettes or create your own: 
 
