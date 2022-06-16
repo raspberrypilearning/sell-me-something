@@ -47,13 +47,15 @@ You can create a new class if you want more variety on your page.
 
 --- task ---
 
-You could style elements with borders or rounded corners:
+You could style elements with borders, shadows or rounded corners:
 
 ![A strip of elements with rounded corners and strong text.](images/style-examples.png)
 
 [[[web-borders]]]
 
 [[[rounded-corners]]]
+
+[[[web-box-shadow]]]
 
 --- /task ---
 
