@@ -101,6 +101,12 @@ You can use the font that is included with the colour palette you selected or pi
 
 --- task ---
 
+Change the `<title>` element text to the title of your page.
+
+--- /task ---
+
+--- task ---
+
 Add a `<h1>` heading to the header with the name of your product or idea. Choose a colour scheme class for the `<header>` by adding a colour scheme class:
 
 [[[web-primary-secondary]]]
