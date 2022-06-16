@@ -19,7 +19,7 @@ Web page <span style="color: #0faeb0">**design**</span> includes making a page v
 
 Remember you can use a `<div>` containing an emoji instead of an `<img>`.
 
-![An example strip containing an odered list, unordered list and quote.](images/example-layouts.png)
+![An example strip containing an ordered list, unordered list and quote.](images/example-layouts.png)
 
 [[[full-width-section]]]
 
@@ -31,7 +31,7 @@ Remember you can use a `<div>` containing an emoji instead of an `<img>`.
 
 [[[web-large-text-tiles]]]
 
-![An example strip containing an odered list, unordered list and quote.](images/list-quote-example.png)
+![An example strip containing an ordered list, unordered list and quote.](images/list-quote-example.png)
 
 [[[web-ordered-list]]]
 
