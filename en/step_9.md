@@ -1,10 +1,10 @@
 ## What next?
 
-If you are following the [Intro to Web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Build a web page](https://projects.raspberrypi.org/en/projects/build-web-page) project. In this project, you will make a web page to promote a product or idea.
+If you are following the [Intro to Web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Build a web page](https://projects.raspberrypi.org/en/projects/build-a-webpage) project. In this project, you will make a web page to promote a product or idea.
 
 --- print-only ---
 
-![Build a web page project](images/build-web-page-project.png)
+![Build a web page project](images/favouritethings.PNG)
 
 --- /print-only ---
 
