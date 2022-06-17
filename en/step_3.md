@@ -47,4 +47,10 @@ Remember you can use a `<div>` containing an emoji instead of an `<img>`.
 
 **Test:** Look at your web site. Would a visitor to your web page have all the information they need to understand your product or idea? Is your content persuasive?
 
+**My webpage isn't displaying correctly**
+
+[[[incorrect-tags]]]
+
+[[[mismatched-tags]]]
+
 --- /task ---

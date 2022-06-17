@@ -79,4 +79,10 @@ You can also change the size of elements using headings, or the style of text.
 
 **Test:** Look at your web site. Is there anything else you could do to make people pay attention to your product or idea?
 
+[[[image-not-displayed]]]
+
+[[[font-not-displayed]]]
+
+[[[web-debug-link]]]
+
 --- /task ---
