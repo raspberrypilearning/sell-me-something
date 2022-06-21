@@ -11,7 +11,7 @@ In this step, you will choose the emoji that represents your product or idea and
 
 --- task ---
 
-Open the [sell me something starter project](https://trinket.io/html/62459839ac){:target="_blank"}
+Open the [sell me something starter project](https://trinket.io/embed/html/62459839ac){:target="_blank"}
 
 --- /task ---
 
