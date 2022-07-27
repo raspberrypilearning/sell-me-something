@@ -25,7 +25,7 @@ You could add a **background image** to your webpage. This works well with trans
 
 --- task ---
 
-You could add a **gradient** to a `<main>`, `<section>`, `<div>`, or `<img>` element:
+You could add a **gradient** to a `<main>`, a `<section>`, a `<div>`, or an `<img>` element:
 
 ![A strip of gradients using different colour palettes.](images/gradients.png)
 
