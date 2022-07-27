@@ -30,7 +30,7 @@ Open the [Sell me something starter project](https://trinket.io/embed/html/62459
 
 --- task ---
 
-**Choose:** Add a `<div>` containing your emoji to either the `<header>` or a `<section>` in the `<main>` part of your page. 
+**Choose:** Add a `<div>` tag that contains your emoji to either the `<header>` or a `<section>` in the `<main>` part of your page. 
 
 --- code ---
 ---
@@ -121,7 +121,7 @@ You could also add a colour scheme class for the `<footer>`.
 
 --- task ---
 
-**Test:** Check that you are happy with your choice of emoji(s), product title, and style choices. 
+**Test:** Check that you are happy with your emoji(s), product title, and style choices. 
 
 --- /task ---
 
