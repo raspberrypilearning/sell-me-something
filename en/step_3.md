@@ -7,6 +7,7 @@ This could include:
 + A list of key points
 + Feature boxes
 + Customer quotes 
+  
 </div>
 <div>
 ![A webpage about star gazing with feature text in boxes and a Buzz Lightyear quote.](images/sell-content.png){:width="300px"}
