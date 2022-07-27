@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it’s time to add some features to make your product page stand out with interaction or animation.
+Now it’s time to add some features to make your product page get your visitors' attention with interaction or animation.
 </div>
 <div>
 ![](images/image.png){:width="300px"}
