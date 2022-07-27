@@ -17,7 +17,7 @@ Open the [Sell me something starter project](https://trinket.io/embed/html/62459
 
 --- task ---
 
-**Choose** one or more emojis to represent a project or idea. You could use:
+**Choose** one or more emojis to represent a project or idea. Your webpage could be about:
 + 🔬 A product such as a mood lamp or a food item
 + 💝 A cause such as recycling or being kind to people
 + 💃🏿 A hobby such as cycling or dancing
