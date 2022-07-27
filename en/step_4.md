@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it’s time to add some features that will make your product page stand out with interaction or animation.
+Now it’s time to add some features to make your product page stand out with interaction or animation.
 </div>
 <div>
 ![](images/image.png){:width="300px"}
@@ -11,7 +11,7 @@ Now it’s time to add some features that will make your product page stand out 
 
 --- task ---
 
-Add one or more flip cards that visitors can interact with to engage with your web page:
+Add one or more flip cards that visitors can interact with to engage with your webpage.
 
 <iframe src="https://trinket.io/embed/html/886cbdcb64?outputOnly=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -26,15 +26,15 @@ Add animation to some of your content. You could add animation to:
 + A list
 + An emoji
 + A link
-+ Or something else
++ Something else on your page 
 
 <iframe src="https://trinket.io/embed/html/6900625300?outputOnly=true" width="100%" height="430" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Remember: Animations will grab attention so add them to the content you want visitors to be drawn to: 
+**Remember:** Animations grab the visitors' attention, so add them to the content you want them to focus on. 
 
 [[[web-starter-animations]]]
 
-You could amend the starter animations to have a bigger impact by changing their timing, repeats or actions:
+You could amend the starter animations to have a bigger impact. For example, you could change the animations' timing, repeats, or actions:
 
 [[[web-customise-animations]]]
 
@@ -42,7 +42,7 @@ You could amend the starter animations to have a bigger impact by changing their
 
 --- task ---
 
-**Test:** Look at your web page. Would it grab a visitor's attention?
+**Test:** Look at your webpage. Do you think the webpage would grab a visitor's attention?
 
 --- /task ---
 
