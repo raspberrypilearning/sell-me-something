@@ -38,7 +38,7 @@ To **design** a webpage, you need to:
 
   --- feedback ---
 
-  Not quite. An important part of web design is to consider accessibility, including colour contrast and making your webpage easy to use, but you also need to do something else.
+  Not quite. An important part of web design is to consider accessibility, including colour contrast and how to make your webpage easy to use, but you also need to do something else.
 
   --- /feedback ---
 
