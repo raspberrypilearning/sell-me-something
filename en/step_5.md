@@ -25,7 +25,7 @@ You could add a **background image** to your webpage. This works well with trans
 
 --- task ---
 
-You could add a **gradient** to a `<main>`, a `<section>`, a `<div>`, or an `<img>` element:
+You could add a **gradient** to a `<main>`, a `<section>`, a `<div>`, or an `<img>` element.
 
 ![A strip of gradients using different colour palettes.](images/gradients.png)
 
@@ -47,7 +47,7 @@ You can create a new class if you want more variety on your webpage.
 
 --- task ---
 
-You could style elements with borders, shadows, or rounded corners:
+You could style elements with borders, shadows, or rounded corners.
 
 ![A strip of elements with rounded corners and strong text.](images/style-examples.png)
 
@@ -77,7 +77,7 @@ You can also change the size of elements using headings or the style of text.
 
 --- task ---
 
-**Test:** Look at your website. Is there anything else you could do to make people pay attention to your product or idea?
+**Test:** Look at your landing page. Is there anything else you could do to make people pay attention to your product or idea?
 
 [[[image-not-displayed]]]
 
