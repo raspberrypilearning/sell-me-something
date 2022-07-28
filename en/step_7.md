@@ -6,7 +6,7 @@ If you have time, you could improve your landing page to make your idea more app
 
 --- task ---
 
-You could improve your webpage's:
+On your webpage, you could improve the:
 
 **Visual design**
 + The layout
