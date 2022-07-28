@@ -34,7 +34,7 @@ Add animation to some of your content. You could add animation to:
 
 [[[web-starter-animations]]]
 
-You could amend the starter animations to have a bigger impact. For example, you could change the animations' timing, repeats, or actions.
+You could amend the starter animations to have a bigger impact. For example, you could change the animations' timings, repeats, or actions.
 
 [[[web-customise-animations]]]
 
