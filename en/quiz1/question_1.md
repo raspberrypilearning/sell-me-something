@@ -30,7 +30,7 @@ To **design** a webpage, you need to:
 
   --- feedback ---
 
-  Not quite. Part of web design is to Choose which HTML and CSS elements to use and when to create new CSS classes, but there's more to the process.
+  Not quite. Part of web design is to choose which HTML and CSS elements to use and when to create new CSS classes, but there's more to the process.
   
   --- /feedback ---
 
