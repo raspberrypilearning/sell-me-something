@@ -22,7 +22,7 @@ To **design** a webpage, you need to:
 
   --- feedback ---
 
-  Not quite. When you design a webpage, you need to make decisions about colours, fonts, and images, but there's more to the process.
+  Not quite. When you design a webpage, you need to make decisions about colours, fonts, and images, but you also need to do something else.
 
   --- /feedback ---
 
@@ -30,7 +30,7 @@ To **design** a webpage, you need to:
 
   --- feedback ---
 
-  Not quite. Part of web design is to choose which HTML and CSS elements to use and when to create new CSS classes, but there's more to the process.
+  Not quite. Part of web design is to choose which HTML and CSS elements to use and when to create new CSS classes, but you also need to do something else.
   
   --- /feedback ---
 
@@ -38,7 +38,7 @@ To **design** a webpage, you need to:
 
   --- feedback ---
 
-  Not quite. An important part of web design is to consider accessibility, including colour contrast and making your webpage easy to use, but there's more to the process. 
+  Not quite. An important part of web design is to consider accessibility, including colour contrast and making your webpage easy to use, but you also need to do something else.
 
   --- /feedback ---
 
