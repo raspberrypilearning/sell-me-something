@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-You have this `dashed-border` class in your `style.css` file. 
+You have this `dashed-border` class in your `style.css` file: 
 
 --- code ---
 ---
