@@ -42,7 +42,7 @@ To **design** a webpage, you need to:
 
   --- /feedback ---
 
-- (x) All of the above
+- (x) All of the above.
 
   --- feedback ---
 
