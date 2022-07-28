@@ -30,7 +30,7 @@ Open the [Sell me something starter project](https://trinket.io/embed/html/62459
 
 --- task ---
 
-**Choose:** Add a `<div>` tag that contains your emoji to either the `<header>` or a `<section>` in the `<main>` part of your page. 
+**Choose:** Add a `<div>` that contains your emoji to either the `<header>` or a `<section>` in the `<main>` part of your page. 
 
 --- code ---
 ---
@@ -55,7 +55,7 @@ A landing page usually has a <span style="color: #0faeb0">**call to action**</sp
 
 --- task ---
 
-**Decide:** Think about the purpose of your page. What are you trying to convince your audience to do? It could be to buy something, take up a new hobby, try an activity, or support a cause. 
+**Decide:** Think about the purpose of your page. What are you trying to convince your audience to do? The webpage's purpose could be to convince visitors to buy something, take up a new hobby, try an activity, or support a cause. 
 
 Remember this purpose while you design your page. Try to make your page as appealing and persuasive as you can.
 
