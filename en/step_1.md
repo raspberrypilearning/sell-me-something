@@ -9,7 +9,7 @@ A <span style="color: #0faeb0">**landing page**</span> is a single webpage desig
 You will:
 + Use short sentences and a simple layout to show visitors your product or idea
 + Engage your visitors with interaction or animation
-+ Style your page to make it attract visitor's attention
++ Style your page to make it attract visitors' attention
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A person who views a webpage or website is often called a <span style="color: #0faeb0">**visitor**</span>. 
