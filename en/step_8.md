@@ -10,7 +10,7 @@ If you are in a club, why not share your project with friends? You could also sh
 
 --- task ---
 
-**Share:** You can get a shareable web link (url) for your project:
+**Share:** You can get a shareable web link (url) for your project.
 
 [[[share-project]]]
 
