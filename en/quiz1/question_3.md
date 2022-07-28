@@ -26,7 +26,7 @@ Should you:
 
 --- choices ---
 
-- ( ) Change the `dashed-border` class to match the new style you want
+- ( ) Change the `dashed-border` class to match the new style you want.
 
 
   --- feedback ---
