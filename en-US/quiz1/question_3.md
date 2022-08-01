@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-You have the following `dashed-border` class in your `style.css` file.
+You have this `dashed-border` class in your `style.css` file:
 
 --- code ---
 ---
@@ -17,18 +17,18 @@ line_numbers: false
 
 --- /code ---
 
-You make a decision to use this dashed border style and a second dashed border style on the same web page.
+You make a decision to use this dashed border style and a second dashed border style on the same webpage.
 
 Should you:
 
 --- choices ---
 
-- ( ) Change the `dashed-border` class to match the new style you want
+- ( ) Change the `dashed-border` class to match the new style you want.
 
 
   --- feedback ---
 
-  Not quite. If you change the existing `dashed-border` class then you will only be able to use one dashed border style on your web page.
+  Not quite. If you change the existing `dashed-border` class, then you will only be able to use one dashed border style on your webpage.
 
   --- /feedback ---
 
