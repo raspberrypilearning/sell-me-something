@@ -2,12 +2,6 @@
 
 If you have time, you could improve your landing page to make your idea more appealing and persuasive.
 
-<div>
-**Makerspace**: [See inside](https://trinket.io/html/544b2d7417){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/544b2d7417?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-
 --- task ---
 
 On your webpage, you could improve the:
@@ -38,3 +32,8 @@ On your webpage, you could improve the:
 
 --- /task ---
 
+<div>
+**Makerspace upgrade example**: [See inside](https://trinket.io/html/544b2d7417){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/544b2d7417?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
