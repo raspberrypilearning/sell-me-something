@@ -1,4 +1,4 @@
-# Upgrade your webpage
+## Upgrade your project
 
 If you have time, you could improve your landing page to make your idea more appealing and persuasive.
 
