@@ -11,7 +11,7 @@ In this step, you will choose emojis that represent your product or idea. You wi
 
 --- task ---
 
-Open the [Sell me something starter project](https://trinket.io/embed/html/62459839ac){:target="_blank"}
+Open the [Sell me something starter project](https://staging-editor.raspberrypi.org/en/projects/sell-me-something-starter){:target="_blank"}
 
 --- /task ---
 
