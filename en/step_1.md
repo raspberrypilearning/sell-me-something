@@ -50,7 +50,6 @@ Explore these example projects to get more ideas.
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-</div>
 
 **Mood lamp**: [See inside](https://staging-editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
 <div>
