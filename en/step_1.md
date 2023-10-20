@@ -102,5 +102,9 @@ Explore these example projects to get more ideas.
 
 ![](images/coolest-project.png)
 
+**Circus**
+
+TODO ![](images/circus.png)
+
 --- /print-only ---
 
