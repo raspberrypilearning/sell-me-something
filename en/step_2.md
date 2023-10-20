@@ -18,7 +18,7 @@ Open the [Sell me something starter project](https://staging-editor.raspberrypi.
 --- task ---
 
 **Choose** one or more emojis to represent a project or idea:
-+ 🔬 A product such as a mood lamp or a food item
++ 🧁 A product such as a food item or mood lamp
 + 💝 A cause such as recycling or being kind to people
 + 💃🏿 A hobby such as cycling or dancing
 + 🍰 A great recipe, book, or song

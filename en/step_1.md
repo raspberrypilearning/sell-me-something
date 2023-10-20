@@ -69,6 +69,9 @@ Explore these example projects to get more ideas.
 </div>
 
 
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus_example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+
+
 --- /task ---
 
 --- /no-print ---
