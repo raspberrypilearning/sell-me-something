@@ -68,8 +68,10 @@ Explore these example projects to get more ideas.
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/coolest-projects" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-
+**Circus**: [See inside](https://staging-editor.raspberrypi.org/en/projects/sell-me-something-circus_example){:target="_blank"}
+<div>
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus_example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
 
 
 --- /task ---
