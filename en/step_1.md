@@ -21,19 +21,13 @@ A person who views a webpage or website is often called a <span style="color: #0
 
 --- task --- 
 
-### Try it
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
+### Try it 
 Skateboarding is a fun sport to try out and has different skills for people to learn. What effects have been used to make this webpage get people excited about the sport?
-</div>
-<div>
 **Skateboarding**: [See inside](https://staging-editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
 <div>
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-</div>
-</div>
 
 --- /task ---
 
