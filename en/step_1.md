@@ -23,9 +23,9 @@ A person who views a webpage or website is often called a <span style="color: #0
 
 ### Try it 
 Skateboarding is a fun sport to try out and has different skills for people to learn. What effects have been used to make this webpage get people excited about the sport?
-**Skateboarding**: [See inside](https://staging-editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
+**Skateboarding**: [See inside](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 
@@ -39,32 +39,32 @@ You will make some design decisions to create your landing page.
 
 Explore these example projects to get more ideas.
 
-**Banana bread**: [See inside](https://staging-editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
+**Banana bread**: [See inside](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 
-**Mood lamp**: [See inside](https://staging-editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
+**Mood lamp**: [See inside](https://editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/mood-lamp" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div>
-    
-
-**Night sky**: [See inside](https://staging-editor.raspberrypi.org/en/projects/night-sky){:target="_blank"}
-<div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/night-sky" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mood-lamp" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
     
 
-**Coolest projects**: [See inside](https://staging-editor.raspberrypi.org/en/projects/coolest-projects){:target="_blank"}
+**Night sky**: [See inside](https://editor.raspberrypi.org/en/projects/night-sky){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/coolest-projects" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/night-sky" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
+    
+
+**Coolest projects**: [See inside](https://editor.raspberrypi.org/en/projects/coolest-projects){:target="_blank"}
+<div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/coolest-projects" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Circus**: [See inside](https://staging-editor.raspberrypi.org/en/projects/sell-me-something-circus-example){:target="_blank"}
+**Circus**: [See inside](https://editor.raspberrypi.org/en/projects/sell-me-something-circus-example){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 

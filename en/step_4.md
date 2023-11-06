@@ -13,9 +13,9 @@ Now it’s time to add some features to make your product page get your visitors
 
 Add one or more flip cards that visitors can interact with to engage with your webpage.
 
-**Flip card examples**: [See inside](https://staging-editor.raspberrypi.org/en/projects/flip-card-examples){:target="_blank"}
+**Flip card examples**: [See inside](https://editor.raspberrypi.org/en/projects/flip-card-examples){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-card-examples" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-card-examples" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 
@@ -32,9 +32,9 @@ Add animation to some of your content. You could add animation to:
 + A link
 + Something else on your page 
 
-**Animation examples**: [See inside](https://staging-editor.raspberrypi.org/en/projects/animation-examples){:target="_blank"}
+**Animation examples**: [See inside](https://editor.raspberrypi.org/en/projects/animation-examples){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/animation-examples" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/animation-examples" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 

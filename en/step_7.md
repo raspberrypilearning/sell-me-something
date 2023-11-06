@@ -32,7 +32,7 @@ On your webpage, you could improve the:
 
 --- /task ---
 
-**Your makerspace**: [See inside](https://staging-editor.raspberrypi.org/en/projects/your-makerspace){:target="_blank"}
+**Your makerspace**: [See inside](https://editor.raspberrypi.org/en/projects/your-makerspace){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/your-makerspace" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/your-makerspace" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
