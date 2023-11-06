@@ -32,8 +32,7 @@ On your webpage, you could improve the:
 
 --- /task ---
 
+**Your makerspace**: [See inside](https://editor.raspberrypi.org/en/projects/your-makerspace){:target="_blank"}
 <div>
-**Makerspace upgrade example**: [See inside](https://trinket.io/html/544b2d7417){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/544b2d7417?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/your-makerspace" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
