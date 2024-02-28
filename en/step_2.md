@@ -77,7 +77,7 @@ You could get a colour palette inspiration from an image.
 
 ![Two examples of images and their matching colour palettes.](images/image-palette.png)
 
-[[[trinket-image-library]]] 
+[[[rpfeditor-image-library]]] 
 
 [[[colours-from-image]]]
 

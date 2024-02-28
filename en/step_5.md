@@ -15,7 +15,7 @@ You could add a **background image** to your webpage. This works well with trans
 
 ![A strip of example projects with a background image and transparency adjustment to the main content.](images/background-image.png)
 
-[[[trinket-image-library]]] 
+[[[rpfeditor-image-library]]] 
 
 [[[web-background-image]]]
 
