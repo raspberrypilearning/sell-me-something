@@ -15,7 +15,7 @@
 }
 
 .bounceme {
-  animation: bounce ease 2s infinite; /* runs the 'bounce' animation with ease timing (slow start and end) infinitely. Runs the animation twice. */
+  animation: bounce ease 2s infinite; /* runs the 'bounce' animation with ease timing (slow start and end) over two seconds. Runs the animation forever. */
   display: inline-block;
 }
 
