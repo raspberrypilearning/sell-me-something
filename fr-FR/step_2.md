@@ -1,8 +1,8 @@
-## What are you selling?
+## Qu'est-ce que tu vends ?
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will choose emojis that represent your product or idea. You will also select a colour palette and font for your landing page. 
+Dans cette étape, tu vas choisir des emojis qui représentent ton produit ou ton idée. Tu sélectionneras également une palette de couleurs et une police pour ta page de destination. 
 </div>
 <div>
 ![alt=""](images/sell-layout.png){:width="300px"}
@@ -11,19 +11,19 @@ In this step, you will choose emojis that represent your product or idea. You wi
 
 \--- task ---
 
-Open the [Sell me something starter project](https://editor.raspberrypi.org/en/projects/sell-me-something-starter){:target="_blank"}
+Ouvre le [projet de démarrage Vends-moi quelque chose](https://editor.raspberrypi.org/fr-FR/projects/sell-me-something-starter){:target="_blank"}
 
 \--- /task ---
 
 \--- task ---
 
-**Choose** one or more emojis to represent a project or idea:
+**Choisis** un ou plusieurs emojis pour représenter un projet ou une idée :
 
-- 🧁 A product such as a food item or mood lamp
-- 💝 A cause such as recycling or being kind to people
-- 💃🏿 A hobby such as cycling or dancing
-- 🍰 A great recipe, book, or song
-- 🏞️ An event, an activity, or a place to visit
+- 🧁 Un produit comme un produit alimentaire ou une lampe d'ambiance
+- 💝 Une cause comme le recyclage ou la gentillesse des gens
+- 💃🏿 Un hobby comme le cyclisme ou la danse
+- 🍰 Une recette géniale, un livre ou une chanson
+- 🏞️ Un événement, une activité ou un lieu de visite
 
 [[[choose-an-emoji]]]
 
@@ -31,7 +31,7 @@ Open the [Sell me something starter project](https://editor.raspberrypi.org/en/p
 
 \--- task ---
 
-**Choose:** Add a `<div>` that contains your emoji to either the `<header>` or a `<section>` in the `<main>` part of your page.
+**Choisis :** ajoute un `<div>` qui contient ton emoji à la `<header>` ou à un `<section>` dans la partie `<main>` de ta page.
 
 ## --- code ---
 
@@ -46,37 +46,37 @@ line_numbers: false
 
 \--- /code ---
 
-**Tip:** You can move your emoji around your page later if you change your mind.
+**Astuce :** tu peux déplacer tes emojis sur ta page plus tard si tu changes d'avis.
 
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A landing page usually has a <span style="color: #0faeb0">**call to action**</span> which is something you want visitors to your page to do. You may want visitors to click on a link, try out a hobby or activity, or share the page with others.  
+Une page de destination comporte généralement un <span style="color: #0faeb0">**appel à l'action**</span>, ce que tu souhaites que les visiteurs de ta page fassent. Tu peux vouloir que les visiteurs cliquent sur un lien, essaient un passe-temps ou une activité, ou partagent la page avec d'autres.  
 </p>
 
 \--- task ---
 
-**Decide:** Think about the purpose of your page. What are you trying to convince your audience to do? The webpage's purpose could be to convince visitors to buy something, take up a new hobby, try an activity, or support a cause.
+**Décide :** pense à l'objectif de ta page. Qu’essaies-tu de convaincre ton public de faire ? Le but de la page web pourrait être de convaincre les visiteurs d'acheter quelque chose, de prendre un nouveau hobby, d'essayer une activité ou de soutenir une cause.
 
-Remember this purpose while you design your page. Try to make your page as appealing and persuasive as you can.
+Rappelle-toi cet objectif pendant que tu conçois ta page. Essaie de rendre ta page aussi attrayante et convaincante que possible.
 
 \--- /task ---
 
 \--- task ---
 
-**Choose** a colour palette that works well for your product page.
+**Choisis** une palette de couleurs qui fonctionne bien pour ta page produit.
 
-You could use one of the 20 included colour palettes or create your own.
+Tu peux utiliser une des 20 palettes de couleurs incluses ou créer la tienne.
 
-![A strip of six colour palettes that are some of the 20 included in the starter project.](images/palette-examples.png)
+![Une bande de six palettes de couleurs qui font partie des 20 incluses dans le projet de démarrage.](images/palette-examples.png)
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
 
-You could get a colour palette inspiration from an image.
+Tu peux t'inspirer d’une palette de couleurs à partir d’une image.
 
-![Two examples of images and their matching colour palettes.](images/image-palette.png)
+![Deux exemples d'images et leurs palettes de couleurs correspondantes.](images/image-palette.png)
 
 [[[rpfeditor-image-library]]]
 
@@ -86,11 +86,11 @@ You could get a colour palette inspiration from an image.
 
 \--- task ---
 
-**Choose** fonts that fit with your product or idea.
+**Choisis** les polices qui correspondent à ton produit ou idée.
 
-You can use the font that is included with your chosen colour palette or pick a different one.
+Tu peux utiliser la police qui est incluse dans la palette de couleurs de ton choix ou en choisir une autre.
 
-![Examples of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![Exemples des polices disponibles dans le projet de démarrage. Chaque titre de police est écrit en utilisant le style de police.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -102,13 +102,13 @@ You can use the font that is included with your chosen colour palette or pick a 
 
 \--- task ---
 
-Change the `<title>` element text to the title of your page.
+Remplace le texte de l'élément `<title>` par le titre de ta page.
 
 \--- /task ---
 
 \--- task ---
 
-Add a `<h1>` heading to the header with the name of your product or idea. To choose a colour scheme class for the `<header>`, add a colour scheme class.
+Ajoute un en-tête '<h1>' à l'en-tête avec le nom de ton produit ou de ton idée. Pour choisir une classe de jeu de couleurs pour le '<header>', ajoute une classe de jeu de couleurs.
 
 [[[web-primary-secondary]]]
 
@@ -116,12 +116,12 @@ Add a `<h1>` heading to the header with the name of your product or idea. To cho
 
 \--- task ---
 
-You could also add a colour scheme class for the `<footer>`.
+Tu peux également ajouter une classe de jeu de couleurs pour le `<footer>`.
 
 \--- /task ---
 
 \--- task ---
 
-**Test:** Check that you are happy with your emoji(s), product title, and style choices.
+**Test:** vérifie que tu es satisfait de ton ou tes emoji, du titre du produit et de tes choix de style.
 
 \--- /task ---
