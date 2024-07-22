@@ -2,9 +2,9 @@
 
 ---
 
-## legend: Question 3 of 3
+## legend: Question 3 sur 3
 
-You have this `dashed-border` class in your `style.css` file:
+Tu as cette classe `dashed-border` dans ton fichier `style.css` :
 
 ## --- code ---
 
@@ -19,25 +19,25 @@ border: 0.25rem dashed var(--detail2);
 
 \--- /code ---
 
-You make a decision to use this dashed border style and a second dashed border style on the same webpage.
+Tu décides d'utiliser ce style de bordure pointillée et un deuxième style de bordure pointillée sur la même page web.
 
-Should you:
+Devrais-tu :
 
 \--- choices ---
 
-- ( ) Change the `dashed-border` class to match the new style you want.
+- ( ) Changer la classe `dashed-border` pour correspondre au nouveau style que tu veux.
 
   \--- feedback ---
 
-  Not quite. If you change the existing `dashed-border` class, then you will only be able to use one dashed border style on your webpage.
+  Pas tout à fait. Si tu changes la classe `dashed-border` existante, tu ne seras en mesure d'utiliser qu'un seul style de bordure pointillée sur ta page web.
 
   \--- /feedback ---
 
-- (x) Create a new `dashed-border2` class with the properties for the second dashed border style.
+- (x) Créer une nouvelle classe `dashed-border2` avec les propriétés pour le deuxième style de bordure pointillée.
 
   \--- feedback ---
 
-  Correct. You want to use both styles in the same project so you will need to create a new class for the second dashed border style.
+  Correct. Tu veux utiliser les deux styles dans le même projet pour créer une nouvelle classe pour le deuxième style de bordure pointillée.
 
   \--- /feedback ---
 
