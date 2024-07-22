@@ -3,7 +3,7 @@
 Dans ce projet, tu vas faire une page web pour vendre un produit ou une idée basée sur ton choix d'emojis. Ce type de page web est appelé une **page de destination**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Une <span style="color: #0faeb0">**page de destination**</span> est une seule page web conçue pour convaincre les gens sur un produit ou une idée. Le but d’une page de destination est d’amener quelqu’un à agir. Cela pourrait être d'acheter quelque chose, de recycler plus, de participer à un événement ou de partager la page web avec d'autres. 
+Une <span style="color: #0faeb0">**page de destination**</span> est une seule page web conçue pour convaincre les gens sur un produit ou une idée. Le but d’une page de destination est d’amener quelqu’un à agir. Cela pourrait être d'acheter quelque chose, de recycler plus, de participer à un événement ou de partager la page web avec d'autres personnes. 
 </p>
 
 Tu vas :
@@ -91,7 +91,7 @@ Explore ces exemples de projets pour obtenir plus d'idées.
 
 ![](images/mood-lamp.png)
 
-**Night sky**
+**Ciel nocturne**
 
 ![](images/night-sky.png)
 
@@ -99,7 +99,7 @@ Explore ces exemples de projets pour obtenir plus d'idées.
 
 ![](images/coolest-project.png)
 
-**Circus**
+**Cirque**
 
 TODO ![](images/circus.png)
 
