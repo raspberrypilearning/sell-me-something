@@ -1,52 +1,52 @@
-## Reflection
+## Réflexion
 
-Well done, you have created a landing page and made lots of different design decisions.
+Bien joué, tu as créé une page d'accueil et pris de nombreuses décisions de conception.
 
-Answer the three questions below to reflect on what you've learned.
+Réponds aux trois questions ci-dessous pour réfléchir sur ce que tu as appris.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Après chaque question, appuie sur Soumettre. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
 
-Have fun!
+Amuse-toi bien !
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Question 1 sur 3
 
-To **design** a webpage, you need to:
+Pour **concevoir** une page web, tu dois :
 
 \--- choices ---
 
-- ( ) Make decisions about the colours, fonts, and graphics.
+- ( ) Prendre des décisions concernant les couleurs, les polices et les graphiques.
 
   \--- feedback ---
 
-  Not quite. When you design a webpage, you need to make decisions about colours, fonts, and images, but you also need to do something else.
+  Pas tout à fait. Lorsque tu crées une page web, tu dois prendre des décisions sur les couleurs, les polices et les images, mais tu dois également faire autre chose.
 
   \--- /feedback ---
 
-- ( ) Choose which HTML and CSS elements to use.
+- ( ) Choisir les éléments HTML et CSS à utiliser.
 
   \--- feedback ---
 
-  Not quite. Part of web design is to choose which HTML and CSS elements to use and when to create new CSS classes, but you also need to do something else.
+  Pas tout à fait. Une partie du design web est de choisir quels éléments HTML et CSS utiliser et quand créer de nouvelles classes CSS, mais tu dois aussi faire autre chose.
 
   \--- /feedback ---
 
-- ( ) Consider accessibility and user experience.
+- ( ) Tenir compte de l’accessibilité et de l’expérience utilisateur.
 
   \--- feedback ---
 
-  Not quite. An important part of web design is to consider accessibility, including colour contrast and how to make your webpage easy to use, but you also need to do something else.
+  Pas tout à fait. Une partie importante de la conception web est de considérer l'accessibilité, y compris le contraste de couleur et la façon de rendre ta page web facile à utiliser, mais tu dois également faire quelque chose d'autre.
 
   \--- /feedback ---
 
-- (x) All of the above.
+- (x) Tout ce qui précède.
 
   \--- feedback ---
 
-  Yes, that's correct. There are lots of things to consider when you design a webpage, including what the webpage looks like, what content and features it has, and how you use HTML and CSS to build the webpage.
+  Oui, c'est correct. Il y a beaucoup de choses à considérer lorsque tu conçois une page web, y compris à quoi ressemble la page web quel contenu et fonctionnalités elle possède, et comment tu utilises HTML et CSS pour concevoir la page web.
 
   \--- /feedback ---
 
