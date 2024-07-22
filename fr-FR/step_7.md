@@ -1,41 +1,41 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you could improve your landing page to make your idea more appealing and persuasive.
+Si tu as le temps, tu pourrais améliorer ta page de destination pour rendre ton idée plus attrayante et convaincante.
 
 \--- task ---
 
-On your webpage, you could improve the:
+Sur ta page web, tu pourrais améliorer :
 
-**Visual design**
+**Aspect visuel**
 
-- The layout
-- Colours
-- Fonts
+- Mise en page
+- Couleurs
+- Polices
 - Emojis
-- Graphics
-- Borders
-- Gradients
-- Background images
+- Graphismes
+- Bordures
+- Dégradés
+- Images d'arrière-plan
 
-**Accessibility**
+**Accessibilité**
 
-- Colour contrast
-- Font sizes
-- `alt` text on images
+- Contraste des couleurs
+- Tailles de police
+- texte `alt` sur les images
 
-**Content**
+**Contenu**
 
-- The words you have used.
-- Would a list be more effective?
-- Should you use different heading elements?
+- Les mots que tu as utilisés.
+- Une liste serait-elle plus efficace ?
+- Dois-tu utiliser des éléments de titre différents ?
 
-**User experience**: Have you got the right balance of animation or visitor interaction without your landing page being overwhelming?
+**Expérience utilisateur** : as-tu trouvé le bon équilibre entre animation et interaction avec les visiteurs sans que ta page de destination ne soit surchargée ?
 
-**Technical design**: Consider whether you could organise your CSS properties into classes that you would want to reuse. Make sure you have used sensible names for properties and added helpful comments to your HTML and CSS.
+**Conception technique** : réfléchis à la possibilité d'organiser tes propriétés CSS en classes que tu souhaiterais réutiliser. Assure-toi d'avoir utilisé des noms sensés pour les propriétés et ajouté des commentaires utiles à ton code HTML et CSS.
 
 \--- /task ---
 
-**Your makerspace**: [See inside](https://editor.raspberrypi.org/en/projects/your-makerspace){:target="_blank"}
+**Ton makerspace** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/your-makerspace){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/your-makerspace" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
