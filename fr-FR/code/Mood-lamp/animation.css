@@ -36,7 +36,7 @@
 }
 
 .scaleme {
-  animation: scale linear 4s infinite; /* La répétition s'accroît et se réduit*/
+  animation: scale linear 4s infinite; /* La répétition augmente et diminue*/
   display: inline-block;
 }
 
