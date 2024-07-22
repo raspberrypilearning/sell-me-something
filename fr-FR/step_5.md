@@ -1,19 +1,19 @@
-## Add more style
+## Ajouter plus de style
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A landing page needs to look really appealing. In this step, you can add additional styling to make your product or idea look really great. 
+Une page de destination doit être vraiment attrayante. Au cours de cette étape, tu peux ajouter un style supplémentaire pour donner à ton produit ou idée une apparence vraiment superbe. 
 </div>
 <div>
-![A product page for a mood lamp with a background image, transparency, and gradient effects.](images/sell-style.png){:width="300px"}
+![Une page produit pour une lampe d'ambiance avec une image d'arrière-plan, des effets de transparence et de dégradé.](images/sell-style.png){:width="300px"}
 </div>
 </div>
 
 \--- task ---
 
-You could add a **background image** to your webpage. This works well with transparency on your main content.
+Tu peux ajouter une **image d'arrière-plan** à ta page web. Cela fonctionne bien avec la transparence sur ton contenu principal.
 
-![A strip of example projects with a background image and transparency adjustment to the main content.](images/background-image.png)
+![Une bande d'exemples de projets avec une image d'arrière-plan et un ajustement de transparence au contenu principal.](images/background-image.png)
 
 [[[rpfeditor-image-library]]]
 
@@ -25,21 +25,21 @@ You could add a **background image** to your webpage. This works well with trans
 
 \--- task ---
 
-You could add a **gradient** to a `<main>`, a `<section>`, a `<div>`, or an `<img>` element.
+Tu peux ajouter un **dégradé** à un élément `<main>`, un `<section>`, un `<div>`, ou un élément `<img>`.
 
-![A strip of gradients using different colour palettes.](images/gradients.png)
+![Une bande de dégradés utilisant différentes palettes de couleurs.](images/gradients.png)
 
 [[[add-a-gradient]]]
 
-**Tip:** Try to change the direction of the gradient to decide what you prefer.
+**Astuce :** essaie de changer la direction du dégradé pour décider de ce que tu préfères.
 
 \--- /task ---
 
-**Tip:** Any changes that you make to classes in `style.css` apply everywhere on the webpage that the class is used. You may find that you want to introduce a new CSS class. You might want a third gradient style, different colour combinations, or different borders.
+**Astuce :** toutes les modifications que tu apportes aux classes dans `style.css` s'appliquent partout sur la page web où la classe est utilisée. Tu souhaiteras peut-être introduire une nouvelle classe CSS. Tu voudras peut-être un troisième style de dégradé, des combinaisons de couleurs différentes ou des bordures différentes.
 
 \--- task ---
 
-You can create a new class if you want more variety on your webpage.
+Tu peux créer une nouvelle classe si tu veux plus de variété sur ta page web.
 
 [[[web-add-class]]]
 
@@ -47,9 +47,9 @@ You can create a new class if you want more variety on your webpage.
 
 \--- task ---
 
-You could style elements with borders, shadows, or rounded corners.
+Tu peux styliser des éléments avec des bordures, des ombres ou des coins arrondis.
 
-![A strip of elements with rounded corners and strong text.](images/style-examples.png)
+![Une bande d'éléments avec des coins arrondis et du texte fort.](images/style-examples.png)
 
 [[[web-borders]]]
 
@@ -61,15 +61,15 @@ You could style elements with borders, shadows, or rounded corners.
 
 \--- task ---
 
-You can also change the size of elements using headings or the style of text.
+Tu peux également modifier la taille des éléments à l'aide des titres ou du style du texte.
 
-![A list with bold text in different colours.](images/strong-example.png)
+![Une liste avec du texte en gras dans différentes couleurs.](images/strong-example.png)
 
 [[[web-strong-em]]]
 
 [[[web-large-text-tiles]]]
 
-**Tip:** You can change an emoji's size like you would change the size of your text. Use heading tags or `bigfont` and `hugefont` classes.
+**Astuce :** tu peux changer la taille d'un emoji comme tu changerais la taille de ton texte. Utilise les balises de titre ou les classes `bigfont` et `hugefont`.
 
 [[[huge-emoji]]]
 
@@ -77,7 +77,7 @@ You can also change the size of elements using headings or the style of text.
 
 \--- task ---
 
-**Test:** Look at your landing page. Is there anything else you could do to make people pay attention to your product or idea?
+**Test :** regarde ta page de destination. Y a-t-il autre chose que tu pourrais faire pour inciter les gens à prêter attention à ton produit ou à ton idée ?
 
 [[[image-not-displayed]]]
 
