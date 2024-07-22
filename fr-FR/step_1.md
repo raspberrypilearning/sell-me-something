@@ -1,19 +1,19 @@
 ## Introduction
 
-In this project, you will make a webpage to sell a product or idea based around your choice of emojis. This kind of webpage is called a **landing page**.
+Dans ce projet, tu vas faire une page web pour vendre un produit ou une idée basée sur ton choix d'emojis. Ce type de page web est appelé une **page de destination**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**landing page**</span> is a single webpage designed to convince people about a product or idea. The purpose of a landing page is to get someone to take action. This could be to buy something, recycle more, participate in an event, or share the webpage with others. 
+Une <span style="color: #0faeb0">**page de destination**</span> est une seule page web conçue pour convaincre les gens sur un produit ou une idée. Le but d’une page de destination est d’amener quelqu’un à agir. Cela pourrait être d'acheter quelque chose, de recycler plus, de participer à un événement ou de partager la page web avec d'autres. 
 </p>
 
-You will:
+Tu vas :
 
-- Use short sentences and a simple layout to show visitors your product or idea
-- Engage your visitors with interaction or animation
-- Style your page to make it attract visitors' attention
+- Utiliser des phrases courtes et une mise en page simple pour montrer aux visiteurs ton produit ou ton idée
+- Inciter tes visiteurs à interagir ou à animer
+- Styliser ta page pour qu'elle attire l'attention des visiteurs
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A person who views a webpage or website is often called a <span style="color: #0faeb0">**visitor**</span>. 
+Une personne qui consulte une page web ou un site web est souvent appelée un <span style="color: #0faeb0">**visiteur**</span>. 
 </p>
 
 ![alt=""](images/example-strip.png)
@@ -22,10 +22,10 @@ A person who views a webpage or website is often called a <span style="color: #0
 
 \--- task ---
 
-### Try it
+### Essaie-le
 
-Skateboarding is a fun sport to try out and has different skills for people to learn. What effects have been used to make this webpage get people excited about the sport?
-**Skateboarding**: [See inside](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
+Le skateboard est un sport amusant à essayer et a différentes compétences à apprendre pour les gens. Quels effets ont été utilisés pour que cette page web suscite l’enthousiasme des gens pour ce sport ?
+**Skateboarding** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-Fr/projects/skateboarding){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -33,39 +33,39 @@ Skateboarding is a fun sport to try out and has different skills for people to l
 
 \--- /task ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-You will make some design decisions to create your landing page.
+Tu prendras certaines décisions de conception pour créer ta page de destination.
 
 \--- task ---
 
-Explore these example projects to get more ideas.
+Explore ces exemples de projets pour obtenir plus d'idées.
 
-**Banana bread**: [See inside](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
+**Pain aux bananes** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/vegan-banana-bread){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Mood lamp**: [See inside](https://editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
+**Lampe d'ambiance** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/mood-lamp){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mood-lamp" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Night sky**: [See inside](https://editor.raspberrypi.org/en/projects/night-sky){:target="_blank"}
+**Ciel nocturne** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/night-sky){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/night-sky" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Coolest projects**: [See inside](https://editor.raspberrypi.org/en/projects/coolest-projects){:target="_blank"}
+**Coolest projects** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/coolest-projects){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/coolest-projects" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Circus**: [See inside](https://editor.raspberrypi.org/en/projects/sell-me-something-circus-example){:target="_blank"}
+**Cirque** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/sell-me-something-circus-example){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -77,17 +77,17 @@ Explore these example projects to get more ideas.
 
 \--- print-only ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-**Skateboarding**
+**Faire du skateboard**
 
 ![](images/skateboarding.png)
 
-**Banana bread**
+**Pain aux bananes**
 
 ![](images/banana-bread.png)
 
-**Mood lamp**
+**Lampe d'ambiance**
 
 ![](images/mood-lamp.png)
 
