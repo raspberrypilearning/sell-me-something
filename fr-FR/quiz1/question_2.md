@@ -2,25 +2,25 @@
 
 ---
 
-## legend: Question 2 of 3
+## legend: Question 2 sur 3
 
-True or False: CSS animation allows elements on a webpage to change. You can use a CSS animation to create the effect of a card that flips or to make an emoji bounce up and down.
+Vrai ou faux : l'animation CSS permet aux éléments d'une page web de changer. Tu peux utiliser une animation CSS pour créer l'effet d'une carte qui tourne ou pour faire rebondir un emoji.
 
 \--- choices ---
 
-- (x) True
+- (x) Vrai
 
   \--- feedback ---
 
-  That's correct. You can use CSS animations to gradually change the properties of an HTML element, this includes animating emojis and flipping cards.
+  C'est correct. Tu peux utiliser des animations CSS pour modifier progressivement les propriétés d'un élément HTML, cela inclut l'animation d'emojis et le retournement de cartes.
 
   \--- /feedback ---
 
-- ( ) False
+- ( ) Faux
 
   \--- feedback ---
 
-  Not quite. There are lots of things you can use CSS animations for.
+  Pas tout à fait. Il y a beaucoup de choses pour lesquelles tu peux utiliser des animations CSS.
 
   \--- /feedback ---
 
