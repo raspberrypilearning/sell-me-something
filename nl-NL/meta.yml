@@ -1,27 +1,27 @@
-title: Sell me something
+title: Verkoop mij iets
 hero_image: images/banner.png
-description: Make a webpage for a product or idea.
-meta_title: Learn web development | Build a landing page | Sell
-meta_description: Learn web development for beginners with the Raspberry Pi Foundation. Use HTML and CSS to build a landing page to sell a product or idea.
+description: Maak een webpagina voor een product of idee.
+meta_title: Leer webontwikkeling | Bouw een landingspagina | Verkopen
+meta_description: Leer webontwikkeling voor beginners met de Raspberry Pi Foundation. Gebruik HTML en CSS om een landingspagina te bouwen om een product of idee te verkopen.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-03-26"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: What are you selling?
+    title: Wat verkoop je?
   - 
-    title: Add your content
+    title: Voeg je inhoud toe
     completion: engaged
   - 
-    title: Use animation
+    title: Gebruik animatie
   - 
-    title: Add more style
+    title: Voeg meer stijl toe
     completion: internal
   - 
-    title: Reflection
+    title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: Share
+    title: Deel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
