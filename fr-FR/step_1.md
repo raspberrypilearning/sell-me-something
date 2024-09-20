@@ -25,7 +25,7 @@ Une personne qui consulte une page web ou un site web est souvent appelée un <s
 ### Essaie-le
 
 Le skateboard est un sport amusant à essayer et a différentes compétences à apprendre pour les gens. Quels effets ont été utilisés pour que cette page web suscite l’enthousiasme des gens pour ce sport ?
-**Skateboarding** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-Fr/projects/skateboarding){:target="_blank"}
+**Skateboarding** : [voir à l'intérieur](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -41,31 +41,31 @@ Tu prendras certaines décisions de conception pour créer ta page de destinatio
 
 Explore ces exemples de projets pour obtenir plus d'idées.
 
-**Pain aux bananes** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/vegan-banana-bread){:target="_blank"}
+**Pain aux bananes** : [voir à l'intérieur](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Lampe d'ambiance** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/mood-lamp){:target="_blank"}
+**Lampe d'ambiance** : [voir à l'intérieur](https://editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mood-lamp" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Ciel nocturne** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/night-sky){:target="_blank"}
+**Ciel nocturne** : [voir à l'intérieur](https://editor.raspberrypi.org/en/projects/night-sky){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/night-sky" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Coolest projects** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/coolest-projects){:target="_blank"}
+**Coolest projects** : [voir à l'intérieur](https://editor.raspberrypi.org/en/projects/coolest-projects){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/coolest-projects" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Cirque** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/sell-me-something-circus-example){:target="_blank"}
+**Cirque** : [voir à l'intérieur](https://editor.raspberrypi.org/en/projects/sell-me-something-circus-example){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
