@@ -1,19 +1,19 @@
-## Add more style
+## Voeg meer stijl toe
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A landing page needs to look really appealing. In this step, you can add additional styling to make your product or idea look really great. 
+Een landingspagina moet er echt aantrekkelijk uitzien. In deze stap kun je extra stijlen toevoegen om jouw product of idee er echt geweldig uit te laten zien. 
 </div>
 <div>
-![A product page for a mood lamp with a background image, transparency, and gradient effects.](images/sell-style.png){:width="300px"}
+![Een productpagina voor een sfeerlamp met een achtergrondafbeelding, transparantie en verloopeffecten.](images/sell-style.png){:width="300px"}
 </div>
 </div>
 
 \--- task ---
 
-You could add a **background image** to your webpage. This works well with transparency on your main content.
+Je kunt een **achtergrondafbeelding** aan jouw webpagina toevoegen. Dit werkt goed met transparantie voor je hoofdinhoud.
 
-![A strip of example projects with a background image and transparency adjustment to the main content.](images/background-image.png)
+![Een reeks voorbeeldprojecten met een achtergrondafbeelding en aanpassing van de transparantie van de hoofdinhoud.](images/background-image.png)
 
 [[[rpfeditor-image-library]]]
 
@@ -25,21 +25,21 @@ You could add a **background image** to your webpage. This works well with trans
 
 \--- task ---
 
-You could add a **gradient** to a `<main>`, a `<section>`, a `<div>`, or an `<img>` element.
+Je kunt een **verloop** toevoegen aan een `<main>`, een `<section>`, een `<div>`, of een `<img>` element.
 
-![A strip of gradients using different colour palettes.](images/gradients.png)
+![Een strook met kleurverlopen met verschillende kleurenpaletten.](images/gradients.png)
 
 [[[add-a-gradient]]]
 
-**Tip:** Try to change the direction of the gradient to decide what you prefer.
+**Tip:** Probeer de richting van het verloop te veranderen om te beslissen wat je voorkeur heeft.
 
 \--- /task ---
 
-**Tip:** Any changes that you make to classes in `style.css` apply everywhere on the webpage that the class is used. You may find that you want to introduce a new CSS class. You might want a third gradient style, different colour combinations, or different borders.
+**Tip:** Alle wijzigingen die je aanbrengt in klassen in `style.css` zijn overal van toepassing op de webpagina waar de klasse wordt gebruikt. Het kan zijn dat je een nieuwe CSS-klasse wilt introduceren. Misschien wil je een derde verloopstijl, andere kleurencombinaties of andere randen.
 
 \--- task ---
 
-You can create a new class if you want more variety on your webpage.
+Als je meer variatie op jouw webpagina wilt, kun je een nieuwe klasse maken.
 
 [[[web-add-class]]]
 
@@ -47,9 +47,9 @@ You can create a new class if you want more variety on your webpage.
 
 \--- task ---
 
-You could style elements with borders, shadows, or rounded corners.
+Je kunt elementen stijlen met randen, schaduwen of afgeronde hoeken.
 
-![A strip of elements with rounded corners and strong text.](images/style-examples.png)
+![Een strook elementen met afgeronde hoeken en vetgedrukte tekst.](images/style-examples.png)
 
 [[[web-borders]]]
 
@@ -61,15 +61,15 @@ You could style elements with borders, shadows, or rounded corners.
 
 \--- task ---
 
-You can also change the size of elements using headings or the style of text.
+Je kunt ook de grootte van elementen wijzigen met behulp van koppen of de tekststijl.
 
-![A list with bold text in different colours.](images/strong-example.png)
+![Een lijst met vetgedrukte tekst in verschillende kleuren.](images/strong-example.png)
 
 [[[web-strong-em]]]
 
 [[[web-large-text-tiles]]]
 
-**Tip:** You can change an emoji's size like you would change the size of your text. Use heading tags or `bigfont` and `hugefont` classes.
+**Tip:** Je kunt de grootte van een emoji wijzigen, net zoals je de grootte van je tekst zou wijzigen. Gebruik heading-tags of de klassen `bigfont` en `hugefont`.
 
 [[[huge-emoji]]]
 
@@ -77,7 +77,7 @@ You can also change the size of elements using headings or the style of text.
 
 \--- task ---
 
-**Test:** Look at your landing page. Is there anything else you could do to make people pay attention to your product or idea?
+**Test:** Bekijk je landingspagina. Is er nog iets dat je kunt doen om ervoor te zorgen dat mensen aandacht besteden aan jouw product of idee?
 
 [[[image-not-displayed]]]
 
