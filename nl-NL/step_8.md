@@ -1,15 +1,15 @@
-## Share
+## Deel
 
-If you are in a club, why not share your project with friends? You could also show your family how your project works.
+Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden? Je kunt jouw familie ook laten zien hoe jouw project werkt.
 
 \--- task ---
 
-**Show:** Show your landing page to someone and ask them if it's persuasive. Does it make them want to try your product or idea?
+**Toon:** Laat jouw landingspagina aan iemand zien en vraag of deze overtuigend is. Zorgt het ervoor dat ze jouw product of idee willen proberen?
 
 \--- /task ---
 
 \--- task ---
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
 
 \--- /task ---
