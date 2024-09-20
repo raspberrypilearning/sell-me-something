@@ -2,9 +2,9 @@
 
 ---
 
-## legend: Question 3 of 3
+## legend: Vraag 3 van 3
 
-You have this `dashed-border` class in your `style.css` file:
+Je hebt deze `dashed-border` klasse in je `style.css` bestand:
 
 ## --- code ---
 
@@ -19,25 +19,25 @@ border: 0.25rem dashed var(--detail2);
 
 \--- /code ---
 
-You make a decision to use this dashed border style and a second dashed border style on the same webpage.
+Je besluit om deze stippellijn randstijl en een tweede stippellijn randstijl op dezelfde webpagina te gebruiken.
 
-Should you:
+Moet je:
 
 \--- choices ---
 
-- ( ) Change the `dashed-border` class to match the new style you want.
+- ( ) De `dashed-border` klasse veranderen zodat deze overeenkomt met de nieuwe stijl die je wilt.
 
   \--- feedback ---
 
-  Not quite. If you change the existing `dashed-border` class, then you will only be able to use one dashed border style on your webpage.
+  Niet helemaal. Als je de bestaande `dashed-border` klasse verandert, kun je maar een stippellijn-stijl gebruiken op je webpagina.
 
   \--- /feedback ---
 
-- (x) Create a new `dashed-border2` class with the properties for the second dashed border style.
+- (x) Maak een nieuwe `dashed-border2` klasse met eigenschappen voor de tweede stippellijn randstijl.
 
   \--- feedback ---
 
-  Correct. You want to use both styles in the same project so you will need to create a new class for the second dashed border style.
+  Juist. Je wilt beide stijlen in hetzelfde project gebruiken, dus moet je een nieuwe klasse maken voor de tweede stippellijn rand.
 
   \--- /feedback ---
 
