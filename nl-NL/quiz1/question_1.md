@@ -1,52 +1,52 @@
-## Reflection
+## Reflectie
 
-Well done, you have created a landing page and made lots of different design decisions.
+Goed gedaan, je hebt een landingspagina gemaakt en veel verschillende ontwerpbeslissingen genomen.
 
-Answer the three questions below to reflect on what you've learned.
+Beantwoord de drie onderstaande vragen om terug te kijken op wat je hebt geleerd.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Druk na elke vraag op Controleer mijn antwoord. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
 
-Have fun!
+Veel plezier!
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Vraag 1 van 3
 
-To **design** a webpage, you need to:
+Om een webpagina te **ontwerpen**, moet je:
 
 \--- choices ---
 
-- ( ) Make decisions about the colours, fonts, and graphics.
+- ( ) Beslissingen nemen over de kleuren, lettertypen en afbeeldingen.
 
   \--- feedback ---
 
-  Not quite. When you design a webpage, you need to make decisions about colours, fonts, and images, but you also need to do something else.
+  Niet helemaal. Wanneer je een webpagina ontwerpt, moet je beslissingen nemen over kleuren, lettertypen en afbeeldingen, maar je moet ook iets anders doen.
 
   \--- /feedback ---
 
-- ( ) Choose which HTML and CSS elements to use.
+- ( ) Kiezen welke HTML- en CSS-elementen je wilt gebruiken.
 
   \--- feedback ---
 
-  Not quite. Part of web design is to choose which HTML and CSS elements to use and when to create new CSS classes, but you also need to do something else.
+  Niet helemaal. Onderdeel van webontwerp is het kiezen welke HTML- en CSS-elementen je wilt gebruiken en wanneer je nieuwe CSS-klassen wilt maken, maar je moet ook iets anders doen.
 
   \--- /feedback ---
 
-- ( ) Consider accessibility and user experience.
+- ( ) Nadenken over toegankelijkheid en gebruikerservaring.
 
   \--- feedback ---
 
-  Not quite. An important part of web design is to consider accessibility, including colour contrast and how to make your webpage easy to use, but you also need to do something else.
+  Niet helemaal. Een belangrijk onderdeel van webontwerp is het nadenken over toegankelijkheid, inclusief kleurcontrast en hoe je je webpagina gebruiksvriendelijk kunt maken, maar je moet ook iets anders doen.
 
   \--- /feedback ---
 
-- (x) All of the above.
+- (X) Alle bovenstaande antwoorden.
 
   \--- feedback ---
 
-  Yes, that's correct. There are lots of things to consider when you design a webpage, including what the webpage looks like, what content and features it has, and how you use HTML and CSS to build the webpage.
+  Ja, dat is juist. Er zijn veel dingen om te overwegen wanneer je een webpagina ontwerpt, inclusief hoe de webpagina eruitziet, welke inhoud en functies het heeft, en hoe je HTML en CSS gebruikt om de webpagina te bouwen.
 
   \--- /feedback ---
 
