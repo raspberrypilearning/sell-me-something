@@ -1,17 +1,17 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you are following the [Intro to web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Build a webpage](https://projects.raspberrypi.org/en/projects/build-a-webpage) project. In this project, you will make a webpage to promote a product or idea.
+Als je het pad [Inleiding tot webontwikkeling](https://projects.raspberrypi.org/en/raspberrypi/web-intro) volgt, ga je verder naar het [Een webpagina bouwen](https://projects.raspberrypi.org/en/projects/build-a-webpage) project. In dit project maak je een webpagina om informatie te delen.
 
 \--- print-only ---
 
-![Build a webpage project.](images/favouritethings.PNG)
+![Bouw een webpaginaproject.](images/favoritethings.PNG)
 
 \--- /print-only ---
 
 \--- no-print ---
 
 <div>
-**Favourite things**: 
+**Favoriete dingen**: 
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
