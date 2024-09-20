@@ -1,26 +1,26 @@
-## Add your content
+## Voeg je inhoud toe
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will add content that helps to sell your product or idea. This could include a list of key points, feature boxes, or customer quotes. 
+In deze stap voeg je inhoud toe die helpt jouw product of idee te verkopen. Dit kan een lijst met belangrijke punten, functielijsten of klantcitaten zijn. 
 </div></div>
 
 <div>
-![A webpage about star gazing with feature text in boxes and a Buzz Lightyear quote.](images/sell-content.png){:width="300px"}
+![Een webpagina over sterrenkijken met tekst in kaders en een citaat van Buzz Lightyear.](images/sell-content.png){:width="300px"}
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Webpage <span style="color: #0faeb0">**design**</span> is a process to make a page visually appealing, choose the right content, and design for accessibility and user experience. Part of the webpage design process is to also choose the appropriate HTML element and choose and create CSS styles.  
+Webpagina <span style="color: #0faeb0">**ontwerp**</span> is een proces om een pagina visueel aantrekkelijk te maken, de juiste inhoud te kiezen en te ontwerpen voor toegankelijkheid en gebruikerservaring. Een deel van het webpagina-ontwerpproces is het kiezen van het juiste HTML-element en het kiezen en creëren van CSS-stijlen.  
 </p>
 
 \--- task ---
 
-**Choose** a layout for your webpage with `<section>` and content types to really sell your product idea to visitors of your webpage.
+**Kies** een lay-out voor jouw webpagina met `<section>` en inhoudstypen om jouw productidee echt aan bezoekers van jouw webpagina te verkopen.
 
-Remember you can use a `<div>` to contain an emoji instead of an `<img>`.
+Onthoud dat je een `<div>` kunt gebruiken om een emoji te bevatten in plaats van een `<img>`.
 
-![An example strip containing an ordered list, unordered list, and quote.](images/example-layouts.png)
+![Een voorbeeldstrook met een geordende lijst, een ongeordende lijst en een citaat.](images/example-layouts.png)
 
 [[[full-width-section]]]
 
@@ -32,7 +32,7 @@ Remember you can use a `<div>` to contain an emoji instead of an `<img>`.
 
 [[[web-large-text-tiles]]]
 
-![An example strip containing an ordered list, unordered list, and quote.](images/list-quote-example.png)
+![Een voorbeeldstrook met een geordende lijst, een ongeordende lijst en een citaat.](images/list-quote-example.png)
 
 [[[web-ordered-list]]]
 
@@ -46,9 +46,9 @@ Remember you can use a `<div>` to contain an emoji instead of an `<img>`.
 
 \--- task ---
 
-**Test:** Look at your website. Would a visitor to your webpage have all the information they need to understand your product or idea? Is your content persuasive?
+**Test:** Bekijk jouw webpagina. Zou een bezoeker van jouw webpagina alle informatie hebben die hij of zij nodig heeft om jouw product of idee te begrijpen? Is jouw inhoud overtuigend?
 
-**My webpage isn't displaying correctly**
+**Mijn webpagina wordt niet correct weergegeven**
 
 [[[incorrect-tags]]]
 
