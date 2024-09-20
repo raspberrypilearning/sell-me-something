@@ -1,8 +1,8 @@
-## What are you selling?
+## Wat verkoop je?
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will choose emojis that represent your product or idea. You will also select a colour palette and font for your landing page. 
+In deze stap kies je emoji’s die jouw product of idee vertegenwoordigen. Je selecteert ook een kleurenpalet en lettertype voor jouw landingspagina. 
 </div>
 <div>
 ![alt=""](images/sell-layout.png){:width="300px"}
@@ -11,19 +11,19 @@ In this step, you will choose emojis that represent your product or idea. You wi
 
 \--- task ---
 
-Open the [Sell me something starter project](https://editor.raspberrypi.org/en/projects/sell-me-something-starter){:target="_blank"}
+Open het [Verkoop mij iets startproject](https://editor.raspberrypi.org/en/projects/sell-me-something-starter){:target="_blank"}
 
 \--- /task ---
 
 \--- task ---
 
-**Choose** one or more emojis to represent a project or idea:
+**Kies** een of meer emoji's om een project of idee weer te geven:
 
-- 🧁 A product such as a food item or mood lamp
-- 💝 A cause such as recycling or being kind to people
-- 💃🏿 A hobby such as cycling or dancing
-- 🍰 A great recipe, book, or song
-- 🏞️ An event, an activity, or a place to visit
+- 🧁 Een product zoals een voedingsartikel of stemmingslamp
+- 💝 Een goed doel zoals recyclen of aardig zijn voor mensen
+- 💃🏿 Een hobby zoals fietsen of dansen
+- 🍰 Een geweldig recept, boek of liedje
+- 🏞️ Een evenement, een activiteit of een plek om te bezoeken
 
 [[[choose-an-emoji]]]
 
@@ -31,7 +31,7 @@ Open the [Sell me something starter project](https://editor.raspberrypi.org/en/p
 
 \--- task ---
 
-**Choose:** Add a `<div>` that contains your emoji to either the `<header>` or a `<section>` in the `<main>` part of your page.
+**Kies:** Voeg een `<div>` toe die jouw emoji bevat aan het `<header>` of een `<section>` in het `<main>` gedeelte van je pagina.
 
 ## --- code ---
 
@@ -46,37 +46,37 @@ line_numbers: false
 
 \--- /code ---
 
-**Tip:** You can move your emoji around your page later if you change your mind.
+**Tip:** Je kunt je emoji later op je pagina verplaatsen als je van gedachten verandert.
 
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A landing page usually has a <span style="color: #0faeb0">**call to action**</span> which is something you want visitors to your page to do. You may want visitors to click on a link, try out a hobby or activity, or share the page with others.  
+Een landingspagina heeft meestal een <span style="color: #0faeb0">**oproep om te handelen**</span>, dat is iets dat je wilt dat bezoekers van jouw pagina doen. Je wilt misschien dat bezoekers op een link klikken, een hobby of activiteit uitproberen, of de pagina met anderen delen.  
 </p>
 
 \--- task ---
 
-**Decide:** Think about the purpose of your page. What are you trying to convince your audience to do? The webpage's purpose could be to convince visitors to buy something, take up a new hobby, try an activity, or support a cause.
+**Beslis:** Denk na over het doel van jouw pagina. Waar probeer je je publiek van te overtuigen om te doen? Het doel van de webpagina kan zijn om bezoekers ervan te overtuigen iets te kopen, een nieuwe hobby te beginnen, een activiteit uit te proberen of een goed doel te steunen.
 
-Remember this purpose while you design your page. Try to make your page as appealing and persuasive as you can.
+Onthoud dit doel terwijl je jouw pagina ontwerpt. Probeer je pagina zo aantrekkelijk en overtuigend mogelijk te maken.
 
 \--- /task ---
 
 \--- task ---
 
-**Choose** a colour palette that works well for your product page.
+**Kies** een kleurenpalet dat goed bij jouw productpagina past.
 
-You could use one of the 20 included colour palettes or create your own.
+Je kunt een van de 20 meegeleverde kleurenpaletten gebruiken of jouw eigen kleurenpalet maken.
 
-![A strip of six colour palettes that are some of the 20 included in the starter project.](images/palette-examples.png)
+![Een strook van zes kleurenpaletten die deel uitmaken van de 20 die in het startproject zijn opgenomen.](images/palette-examples.png)
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
 
-You could get a colour palette inspiration from an image.
+Je kunt inspiratie opdoen uit het kleurenpalet van een afbeelding.
 
-![Two examples of images and their matching colour palettes.](images/image-palette.png)
+![Twee voorbeelden van afbeeldingen en hun bijpassende kleurenpaletten.](images/image-palette.png)
 
 [[[rpfeditor-image-library]]]
 
@@ -86,11 +86,11 @@ You could get a colour palette inspiration from an image.
 
 \--- task ---
 
-**Choose** fonts that fit with your product or idea.
+**Kies** lettertypen die bij jouw product of idee passen.
 
-You can use the font that is included with your chosen colour palette or pick a different one.
+Je kunt het lettertype gebruiken dat bij het door jou gekozen kleurenpalet is inbegrepen, of een ander lettertype kiezen.
 
-![Examples of the fonts available in the starter project. Each font title is written using the font style.](images/font-examples.png)
+![Voorbeelden van de lettertypen die beschikbaar zijn in het startproject. Elke lettertypetitel is geschreven met behulp van de lettertypestijl.](images/font-examples.png)
 
 [[[included-fonts]]]
 
@@ -102,13 +102,13 @@ You can use the font that is included with your chosen colour palette or pick a 
 
 \--- task ---
 
-Change the `<title>` element text to the title of your page.
+Wijzig de `<title>` elementtekst in de titel van jouw pagina.
 
 \--- /task ---
 
 \--- task ---
 
-Add a `<h1>` heading to the header with the name of your product or idea. To choose a colour scheme class for the `<header>`, add a colour scheme class.
+Voeg een `<h1>` kop toe aan de kop met de naam van jouw product of idee. Om een kleurenschema klasse voor de `<header>` te kiezen, voeg je een kleurenschema klasse toe.
 
 [[[web-primary-secondary]]]
 
@@ -116,12 +116,12 @@ Add a `<h1>` heading to the header with the name of your product or idea. To cho
 
 \--- task ---
 
-You could also add a colour scheme class for the `<footer>`.
+Je kunt ook een kleurenschema klasse toevoegen voor `<footer>`.
 
 \--- /task ---
 
 \--- task ---
 
-**Test:** Check that you are happy with your emoji(s), product title, and style choices.
+**Test:** Controleer of je tevreden bent met jouw emoji(s), producttitel en stijlkeuzes.
 
 \--- /task ---
