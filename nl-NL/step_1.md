@@ -1,19 +1,19 @@
-## Introduction
+## Inleiding
 
-In this project, you will make a webpage to sell a product or idea based around your choice of emojis. This kind of webpage is called a **landing page**.
+In dit project maak je een webpagina om een product of idee te verkopen op basis van de door jou gekozen emoji's. Zo'n soort webpagina wordt een **landingspagina** genoemd.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**landing page**</span> is a single webpage designed to convince people about a product or idea. The purpose of a landing page is to get someone to take action. This could be to buy something, recycle more, participate in an event, or share the webpage with others. 
+Een <span style="color: #0faeb0">**landingspagina**</span> is een enkele webpagina die is ontworpen om mensen te overtuigen van een product of idee. Het doel van een landingspagina is om iemand te vragen actie te ondernemen. Dit zou kunnen zijn om iets te kopen, meer te recyclen, deel te nemen aan een evenement of de webpagina met anderen te delen. 
 </p>
 
-You will:
+Je gaat:
 
-- Use short sentences and a simple layout to show visitors your product or idea
-- Engage your visitors with interaction or animation
-- Style your page to make it attract visitors' attention
+- Korte zinnetjes en een eenvoudige lay-out gebruiken om jouuw product of idee aan de bezoekers te tonen
+- Je bezoekers erbij betrekken met interactie of animatie
+- Jouw pagina stijlen zo dat deze de aandacht van bezoekers trekt
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A person who views a webpage or website is often called a <span style="color: #0faeb0">**visitor**</span>. 
+Een persoon die een webpagina of website bekijkt, wordt vaak een <span style="color: #0faeb0">**bezoeker**</span> genoemd. 
 </p>
 
 ![alt=""](images/example-strip.png)
@@ -22,10 +22,10 @@ A person who views a webpage or website is often called a <span style="color: #0
 
 \--- task ---
 
-### Try it
+### Probeer het uit
 
-Skateboarding is a fun sport to try out and has different skills for people to learn. What effects have been used to make this webpage get people excited about the sport?
-**Skateboarding**: [See inside](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
+Skateboarden is een leuke sport om uit te proberen en er zijn verschillende vaardigheden die mensen kunnen leren. Welke effecten zijn er gebruikt om ervoor te zorgen dat deze webpagina mensen enthousiast maakt voor de sport?
+**Skateboarden**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -33,39 +33,39 @@ Skateboarding is a fun sport to try out and has different skills for people to l
 
 \--- /task ---
 
-### Get inspiration
+### Doe inspiratie op
 
-You will make some design decisions to create your landing page.
+Je gaat een aantal ontwerpbeslissingen nemen om je landingspagina te maken.
 
 \--- task ---
 
-Explore these example projects to get more ideas.
+Bekijk deze voorbeeldprojecten om meer ideeën op te doen.
 
-**Banana bread**: [See inside](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
+**Bananenbrood**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Mood lamp**: [See inside](https://editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
+**Stemmingslamp**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/mood-lamp){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mood-lamp" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Night sky**: [See inside](https://editor.raspberrypi.org/en/projects/night-sky){:target="_blank"}
+**Nachtelijke hemel**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/night-sky){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/night-sky" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Coolest projects**: [See inside](https://editor.raspberrypi.org/en/projects/coolest-projects){:target="_blank"}
+**Coolest Projects**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/coolest-projects){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/coolest-projects" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Circus**: [See inside](https://editor.raspberrypi.org/en/projects/sell-me-something-circus-example){:target="_blank"}
+**Circus**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/sell-me-something-circus-example){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/sell-me-something-circus-example" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -77,21 +77,21 @@ Explore these example projects to get more ideas.
 
 \--- print-only ---
 
-### Get inspiration
+### Doe inspiratie op
 
-**Skateboarding**
+**Skateboarden**
 
 ![](images/skateboarding.png)
 
-**Banana bread**
+**Bananenbrood**
 
 ![](images/banana-bread.png)
 
-**Mood lamp**
+**Stemmingslamp**
 
 ![](images/mood-lamp.png)
 
-**Night sky**
+**Nachtelijke hemel**
 
 ![](images/night-sky.png)
 
