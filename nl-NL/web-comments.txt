@@ -12,30 +12,30 @@ De paginakoptekstcode komt hier terecht
 
 De hoofdinhoud van de webpagina bevindt zich tussen de main tags
 
-A huge emoji spinning with a list to the right and wrapped
+Een enorme emoji die ronddraait met een lijst aan de rechterkant en ingepakt
 
-A block quote with a gradient background
+Een blok citaat met een verloop achtergrond
 
-Two flip cards
+Twee flip cards
 
-A link to the coolest projects website
+Een link naar de coolest projects website
 
-Footer with colour styling but not text
+Voettekst met kleurstijl maar geen tekst
 
-Footer code goes here
+Voettekst code komt hier
 
-A responsive section to contain the card
+Een responsieve sectie om de kaart te bevatten
 
-The card
+De kaart
 
-To control the flip
+Om de draaiing te controleren
 
-The front card face
+De voorkant van de kaart
 
-The back card face
+De achterkant van de kaart
 
-This part is for extra information the browser needs to load the page correctly
+Dit deel is bedoeld voor extra informatie die de browser nodig heeft om de pagina correct te laden
 
-Appears on the web browser tab and search results
+Verschijnt op het tabblad van de webbrowser en in de zoekresultaten
 
-The content that appears in the browser
+De inhoud die in de browser wordt weergegeven
