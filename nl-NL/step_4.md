@@ -1,8 +1,8 @@
-## Use animation
+## Gebruik animatie
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it’s time to add some features to make your product page get your visitors' attention with interaction or animation.
+Nu is het tijd om enkele functies toe te voegen om ervoor te zorgen dat jouw productpagina de aandacht van jouw bezoekers trekt met interactie of animatie.
 </div>
 <div>
 ![](images/image.png){:width="300px"}
@@ -11,9 +11,9 @@ Now it’s time to add some features to make your product page get your visitors
 
 \--- task ---
 
-Add one or more flip cards that visitors can interact with to engage with your webpage.
+Voeg een of meer flipcards toe waarmee bezoekers interactief met jouw webpagina kunnen communiceren.
 
-**Flip card examples**: [See inside](https://editor.raspberrypi.org/en/projects/flip-card-examples){:target="_blank"}
+**Flip card voorbeelden**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/flip-card-examples){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-card-examples" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -25,25 +25,25 @@ Add one or more flip cards that visitors can interact with to engage with your w
 
 \--- task ---
 
-Add animation to some of your content. You could add animation to:
+Voeg animatie toe aan een deel van jouw inhoud. Je kunt animatie toevoegen aan:
 
-- Your heading
-- A list
-- An emoji
-- A link
-- Something else on your page
+- Jouw koptekst
+- Een lijst
+- Een emoji
+- Een link
+- Nog iets anders op je pagina
 
-**Animation examples**: [See inside](https://editor.raspberrypi.org/en/projects/animation-examples){:target="_blank"}
+**Animatievoorbeelden**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/animation-examples){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/animation-examples" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Remember:** Animations grab the visitors' attention, so add them to the content you want them to focus on.
+**Onthoud:** Animaties trekken de aandacht van bezoekers, dus voeg ze toe aan de inhoud waarop je wilt dat ze zich richten.
 
 [[[web-starter-animations]]]
 
-You could amend the starter animations to have a bigger impact. For example, you could change the animations' timings, repeats, or actions.
+Je zou de startanimaties kunnen aanpassen om een grotere impact te hebben. Je kunt bijvoorbeeld de timing, aantal herhalingen of acties van de animaties wijzigen.
 
 [[[web-customise-animations]]]
 
@@ -51,6 +51,6 @@ You could amend the starter animations to have a bigger impact. For example, you
 
 \--- task ---
 
-**Test:** Look at your webpage. Do you think the webpage would get someone's attention?
+**Test:** Bekijk jouw webpagina. Denk je dat de webpagina iemands aandacht zou trekken?
 
 \--- /task ---
