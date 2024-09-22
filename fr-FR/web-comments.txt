@@ -12,30 +12,30 @@ Le code d'en-tête de la page va ici
 
 Le contenu principal de la page web se situe entre les balises principales
 
-A huge emoji spinning with a list to the right and wrapped
+Un énorme emoji qui tourne avec une liste à droite et enveloppé
 
-A block quote with a gradient background
+Un bloc quote avec un arrière-plan dégradé
 
-Two flip cards
+Deux cartes à retourner
 
-A link to the coolest projects website
+Un lien vers le site web coolest projects
 
-Footer with colour styling but not text
+Pied de page avec style de couleur mais pas de texte
 
-Footer code goes here
+Le code de pied de page va ici
 
-A responsive section to contain the card
+Une section réactive pour contenir la carte
 
-The card
+La carte
 
-To control the flip
+Pour contrôler le retournement
 
-The front card face
+Le recto de la carte
 
-The back card face
+Le verso de la carte
 
-This part is for extra information the browser needs to load the page correctly
+Cette partie contient des informations supplémentaires dont le navigateur a besoin pour charger correctement la page
 
-Appears on the web browser tab and search results
+Apparaît dans l'onglet du navigateur web et dans les résultats de recherche
 
-The content that appears in the browser
+Le contenu qui apparaît dans le navigateur
