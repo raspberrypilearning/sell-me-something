@@ -1,0 +1,28 @@
+---
+title: Verkoop mij iets
+hero_image: images/banner.png
+description: Maak een webpagina voor een product of idee.
+meta_title: Leer webontwikkeling | Bouw een landingspagina | Verkoop mij iets
+meta_description: Leer webontwikkeling voor beginners met de Raspberry Pi Foundation. Gebruik HTML en CSS om een landingspagina te bouwen om een product of idee te verkopen.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-03-26"
+steps:
+  - title: Inleiding
+  - title: Wat verkoop je?
+  - title: Voeg je inhoud toe
+    completion: engaged
+  - title: Gebruik animatie
+  - title: Voeg meer stijl toe
+    completion: internal
+  - title: Reflectie
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: Verbeter je project
+  - title: Deel
+  - title: Wat kun je verder nog doen?
