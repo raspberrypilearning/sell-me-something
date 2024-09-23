@@ -1,0 +1,18 @@
+/* Configurer la palette de couleurs et les polices en utilisant les variables */
+
+:root {
+  --primary: #ffffff;
+  --secondary: #b08959;
+  --tertiary: #f0cb58;
+  --page: #ffffff;
+  --onprimary: #664300;
+  --onsecondary: 	#eadbbe;
+  --ontertiary: #ffffff;
+  --onpage: #000000;
+  --detail: #f2da8f;
+  --detail2: #f0cb58;
+
+  --body-font: 1.1rem 'Cairo', sans-serif;
+  --header-font: lighter 3rem 'Bebas Neue', cursive;
+  --title-font: lighter 1.5rem 'Bebas Neue', cursive;
+}
