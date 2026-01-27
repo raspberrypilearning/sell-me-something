@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 In deze stap voeg je inhoud toe die helpt jouw product of idee te verkopen. Dit kan een lijst met belangrijke punten, functielijsten of klantcitaten zijn. 
-</div></div>
+</div>
 
 <div>
 ![Een webpagina over sterrenkijken met tekst in kaders en een citaat van Buzz Lightyear.](images/sell-content.png){:width="300px"}
