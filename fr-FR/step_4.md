@@ -54,3 +54,4 @@ Tu peux modifier les animations de démarrage pour avoir un impact plus importan
 **Test :** regarde ta page web. Penses-tu que la page web pourrait attirer l'attention de quelqu'un ?
 
 \--- /task ---
+
