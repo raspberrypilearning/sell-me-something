@@ -1,0 +1,34 @@
+title: Продай мені щось
+hero_image: images/banner.png
+description: Створи вебсторінку для продукту чи ідеї.
+meta_title: Навчися створювати вебсайти | Створи цільову сторінку | Продай мені щось
+meta_description: Вивчай веброзробку для початківців з Raspberry Pi Foundation. Використовуй HTML та CSS, щоб створити цільову сторінку та продати продукт або ідею.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-03-26"
+steps:
+  - 
+    title: Вступ
+  - 
+    title: Що ти продаєш?
+  - 
+    title: Наповни сторінку
+    completion: engaged
+  - 
+    title: Використовуй анімацію
+  - 
+    title: Додай стилю
+    completion: internal
+  - 
+    title: Поміркуй
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - 
+    title: Вдоскональ свій проєкт
+  - 
+    title: Пошир свій проєкт
