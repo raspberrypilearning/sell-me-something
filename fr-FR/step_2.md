@@ -125,3 +125,4 @@ Tu peux également ajouter une classe de jeu de couleurs pour le `<footer>`.
 **Test:** vérifie que tu es satisfait de ton ou tes emoji, du titre du produit et de tes choix de style.
 
 \--- /task ---
+
