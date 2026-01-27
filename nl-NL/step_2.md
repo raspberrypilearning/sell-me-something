@@ -125,3 +125,4 @@ Je kunt ook een kleurenschema klasse toevoegen voor `<footer>`.
 **Test:** Controleer of je tevreden bent met jouw emoji(s), producttitel en stijlkeuzes.
 
 \--- /task ---
+
