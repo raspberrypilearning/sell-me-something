@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Dans cette étape, tu vas ajouter du contenu qui aide à vendre ton produit ou ton idée. Ceci peut inclure une liste de points clés, des boîtes de fonctionnalités ou des devis clients. 
-</div></div>
+</div>
 
 <div>
 ![Une page web sur l'observation des étoiles avec un texte de présentation dans des encadrés et une citation de Buzz l'Éclair.](images/sell-content.png){:width="300px"}
