@@ -54,3 +54,4 @@ Je zou de startanimaties kunnen aanpassen om een grotere impact te hebben. Je ku
 **Test:** Bekijk jouw webpagina. Denk je dat de webpagina iemands aandacht zou trekken?
 
 \--- /task ---
+
