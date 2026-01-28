@@ -13,7 +13,7 @@
 - Зробиш дизайн сторінки, який приваблюватиме відвідувачів
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Особу, яка переглядає вебсторінку або вебсайт, часто називають <span style="color: #0faeb0">**відвідувачем**</span>. 
+Особу, яка переглядає вебсторінку або вебсайт, часто називають <span style="color: #0faeb0">**відвідувачем**</span> або <span style="color: #0faeb0">**відвідувачкою**</span>. 
 </p>
 
 ![alt=""](images/example-strip.png)
